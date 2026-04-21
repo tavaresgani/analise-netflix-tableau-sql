@@ -47,13 +47,16 @@ O tratamento dos dados no SQL foi fundamental para a precisão das análises. Al
 * **Análise de Conteúdo:** Classificação semântica de títulos "Violentos" vs "Leves" via `CASE WHEN` e `LIKE`.
 * **Arquitetura para BI:** Criação de `VIEWS` otimizadas para alimentar o Tableau de forma eficiente.
 
-📈 Principais Insights
-Domínio de Filmes: O catálogo é composto por aproximadamente 67% de filmes e 33% de séries.
+## 📈 Principais Insights
 
-Expansão Brasileira: Identificamos um crescimento constante de produções originais no Brasil a partir de 2016.
+* **Domínio de Filmes:** O catálogo é composto majoritariamente por filmes (**67%**), enquanto as séries representam **33%** do total.
+* **Expansão Brasileira:** Observa-se um crescimento expressivo e constante de produções originais no **Brasil**, com um salto relevante a partir de **2016**.
+* **Público-Alvo:** A maior concentração de títulos do catálogo global está voltada para o público **Adulto (18+)**.
 
-Público Adulto: A maior concentração de títulos está na classificação 18+ (Adulto).
+---
 
-Autora: Gabriela Tavares
+## 👩‍💻 Autora
 
-Formação: Sistemas de Informação pela Universidade Federal de Mato Grosso do Sul.
+**Gabriela Tavares** 🎓 *Bacharel em Sistemas de Informação* 🏛️ Universidade Federal de Mato Grosso do Sul (UFMS)
+
+---
